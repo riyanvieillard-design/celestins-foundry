@@ -8,14 +8,13 @@
   "authors": [
     { "name": "Maitre des Plantes" }
   ],
+
+  "manifest": "https://raw.githubusercontent.com/TON_PSEUDO/celestins-foundry/main/system.json",
+  "download": "https://github.com/TON_PSEUDO/celestins-foundry/releases/download/v0.1.0/celestins.zip",
+
   "esmodules": ["celestins.js"],
-  "styles": [],
-  "packs": [],
-  "languages": [],
   "grid": {
     "distance": 1,
     "units": "m"
   }
 }
-
-
