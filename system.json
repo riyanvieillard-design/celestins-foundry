@@ -1,0 +1,19 @@
+{
+  "id": "celestins",
+  "title": "Célestins",
+  "description": "Système de jeu Célestins",
+  "version": "0.1.0",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "11",
+  "authors": [
+    { "name": "Maitre des Plantes" }
+  ],
+  "esmodules": ["celestins.js"],
+  "styles": [],
+  "packs": [],
+  "languages": [],
+  "grid": {
+    "distance": "m",
+    "units": 1
+  }
+}

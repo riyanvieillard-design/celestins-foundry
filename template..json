@@ -1,0 +1,17 @@
+{
+  "Actor": {
+    "character": {
+      "force": { "value": 10 },
+      "dexterite": { "value": 10 },
+      "constitution": { "value": 10 },
+      "intelligence": { "value": 10 },
+      "sagesse": { "value": 10 },
+      "charisme": { "value": 10 },
+
+      "pv": {
+        "max": 10,
+        "current": 10
+      }
+    }
+  }
+}
