@@ -3,8 +3,8 @@
   "title": "Célestins",
   "description": "Système de jeu Célestins",
   "version": "0.1.0",
-  "minimumCoreVersion": "11",
-  "compatibleCoreVersion": "11",
+  "minimumCoreVersion": "13",
+  "compatibleCoreVersion": "13",
   "authors": [
     { "name": "Maitre des Plantes" }
   ],
@@ -18,4 +18,5 @@
     "units": "m"
   }
 }
+
 
