@@ -9,8 +9,8 @@
     { "name": "Maitre des Plantes" }
   ],
 
-  "manifest": "https://raw.githubusercontent.com/TON_PSEUDO/celestins-foundry/main/system.json",
-  "download": "https://github.com/TON_PSEUDO/celestins-foundry/releases/download/v0.1.0/celestins.zip",
+  "manifest": "https://raw.githubusercontent.com/riyanvieillard-design/celestins-foundry/main/system.json",
+  "download": "https://github.com/riyanvieillard-design/celestins-foundry/releases/download/v0.1.0/celestins.zip",
 
   "esmodules": ["celestins.js"],
   "grid": {
@@ -18,3 +18,4 @@
     "units": "m"
   }
 }
+
