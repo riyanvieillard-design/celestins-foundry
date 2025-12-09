@@ -3,20 +3,27 @@
   "title": "Célestins",
   "description": "Système de jeu Célestins",
   "version": "0.1.0",
-  "minimumCoreVersion": "13",
-  "compatibleCoreVersion": "13",
+
   "authors": [
-    { "name": "Maitre des Plantes" }
+    {
+      "name": "Maitre des Plantes"
+    }
   ],
 
-  "manifest": "https://raw.githubusercontent.com/riyanvieillard-design/celestins-foundry/main/system.json",
-  "download": "https://github.com/riyanvieillard-design/celestins-foundry/releases/download/v0.1.0/celestins.zip",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
 
-  "esmodules": ["celestins.js"],
+  "esmodules": [
+    "celestins.js"
+  ],
+
   "grid": {
     "distance": 1,
     "units": "m"
-  }
+  },
+
+  "manifest": "https://raw.githubusercontent.com/riyanvieillard-deisgn/celestins-foundry/main/system.json",
+  "download": "https://github.com/riyanvieillard-design/celestins-foundry/releases/download/v0.1.0/celestins.zip"
 }
-
-
