@@ -13,8 +13,9 @@
   "packs": [],
   "languages": [],
   "grid": {
-    "distance": "1",
-    "units": m
+    "distance": 1,
+    "units": "m"
   }
 }
+
 
